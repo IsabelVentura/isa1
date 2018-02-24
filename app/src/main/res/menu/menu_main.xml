@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.sony.isa1.MainActivity">
+    <item
+        android:id="@+id/action_buscar"
+        android:orderInCategory="100"
+        android:title="buscar"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_lista"
+        android:orderInCategory="99"
+        android:title="lista"
+        app:showAsAction="never" />
+</menu>
